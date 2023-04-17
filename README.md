@@ -11,3 +11,5 @@ https://fred.stlouisfed.org/series/NGMP45300
 https://datausa.io/profile/geo/tampa-fl
 
 https://www.macrotrends.net/cities/23160/tampa/population
+
+https://data.bls.gov/timeseries/LAUMT124530000000006?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
