@@ -1,6 +1,6 @@
 # Tampa-Dashboard
 
-This project was made with the intention of creating a dashboard in Power BI after cleaning, manipulating and merging several datasets. 
+This project was made with the intention of creating a dashboard in Power BI after cleaning, manipulating and merging several datasets. The dashboard itself covers several statistics from different sources regarding the Tampa Bay Area.
 
 The following data sources were used for putting together this dataframe
 
